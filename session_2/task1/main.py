@@ -1,0 +1,1 @@
+import firelinkurl = "https://www.google.com"#firelink.Firefox(url)print("Please choose favourite website number:")for x in range(len(firelink.favourite_websites)):  print(x,end='  ')  print(firelink.favourite_websites[x])firelink.Firefox(firelink.favourite_websites[int(input())])

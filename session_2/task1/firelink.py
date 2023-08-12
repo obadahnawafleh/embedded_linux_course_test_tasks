@@ -1,0 +1,1 @@
+import webbrowserdef Firefox(url):  webbrowser.open(url)  favourite_websites=["https://www.google.com","https://www.youtube.com/","https://www.facebook.com/"]
